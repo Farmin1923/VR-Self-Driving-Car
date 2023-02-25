@@ -32,7 +32,7 @@ Egocentric View of the car            |  Egocentric view of the pedestrian
 
 </br>
 
-## Avatar of the Pedestrian, Controlling by Keyboard Input
+## Avatar of the Pedestrian, Controlled by Keyboard Input
 
 <div align="center">
   <video src="https://user-images.githubusercontent.com/115661274/221374518-dd2690fc-c89a-483a-8935-ee9bd4eaf589.mp4" />
