@@ -12,7 +12,7 @@ Also, animated an avatar and write scripting for synchronizing VR-input action w
 ## Demonstration of the Simulator
 
 <div align="center">
-  <video src="https://user-images.githubusercontent.com/115661274/221345095-f637610a-d064-4b1e-9414-6ebf81a8da7f.mp4" />
+  <video src="https://user-images.githubusercontent.com/115661274/221345140-95ad4eab-c832-40b9-bc08-846617389870.mp4" />
 </div>
 </br>
 
