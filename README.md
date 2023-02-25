@@ -15,8 +15,11 @@ Also, animated an avatar and write scripting for synchronizing VR-input action w
 
 
 
+
+
+
 <div align="center">
-  <video src="https://user-images.githubusercontent.com/115661274/221344184-770b4ac6-20f5-4ad2-9bdb-7925aa8baf0b.mp4" />
+  <video src="https://user-images.githubusercontent.com/115661274/221344232-01960284-e1ac-4c57-9ed5-c9ddb3c9b3c1.mp4" />
 </div>
 </br>
 
