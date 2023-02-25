@@ -14,8 +14,6 @@ Also, animated an avatar and write scripting for synchronizing VR-input action w
 
 
 
-
-
 <div align="center">
   <video src="https://user-images.githubusercontent.com/115661274/221344418-bc80f090-45e3-4052-a083-c64cc0dd6943.mp4" />
 </div>
@@ -24,7 +22,7 @@ Also, animated an avatar and write scripting for synchronizing VR-input action w
 ## Demonstration of Self-Driving Car
 
 <div align="center">
-  <video src="https://user-images.githubusercontent.com/115661274/221344023-312114d4-d040-4b3d-81a8-bddae5c8d2a7.mp4" width=400/>
+  <video src="https://user-images.githubusercontent.com/115661274/221344505-edfecc7b-411d-476b-b41d-4a52f45a5e6f.mp4" width=400/>
 </div>
 
 
