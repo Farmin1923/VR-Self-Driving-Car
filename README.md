@@ -11,7 +11,7 @@ Also, animated an avatar and write scripting for synchronizing VR-input action w
 
 
 
-<img src="https://github.com/Farmin1923/VR-Self-Driving-Car/blob/main/Demonstration%20of%20Simulator%20R02.mp4" width = "100" height="250" />
+<img src="https://github.com/Farmin1923/VR-Self-Driving-Car/blob/main/Demonstration%20of%20Simulator%20R02.mp4" width = "500" height="300" />
 
 
 ### Demonstration of Self-Driving Car
