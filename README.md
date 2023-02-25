@@ -12,41 +12,20 @@ Also, animated an avatar and write scripting for synchronizing VR-input action w
 
 ## Demonstration of the Simulator
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div align="center">
   <video src="https://user-images.githubusercontent.com/115661274/221343929-0039decf-92d2-4806-8bbd-ec8f63623a81.mp4" width=400/>
 </div>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## Demonstration of Self-Driving Car
 
+
+
+
+
 <div align="center">
-  <video src="https://user-images.githubusercontent.com/115661274/221343257-a356a3c3-d875-4913-96c0-46528fdabe62.mp4" width=400/>
+  <video src="https://user-images.githubusercontent.com/115661274/221344023-312114d4-d040-4b3d-81a8-bddae5c8d2a7.mp4" width=400/>
 </div>
 
 </br>
