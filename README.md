@@ -19,7 +19,10 @@ Also, animated an avatar and write scripting for synchronizing VR-input action w
 
 
 
-https://user-images.githubusercontent.com/115661274/221343724-ac16385a-c93c-4b82-be55-f79adf43571b.mp4
+
+https://user-images.githubusercontent.com/115661274/221343802-f89bb638-bc2e-41ca-ab32-9d6ebd5dbe1f.mp4
+
+
 
 
 
