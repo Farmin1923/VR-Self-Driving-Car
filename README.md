@@ -16,4 +16,4 @@ https://user-images.githubusercontent.com/115661274/221333032-c9facb30-7175-451b
 https://user-images.githubusercontent.com/115661274/221332815-3faf7796-3f77-41ec-8ef7-a6d0abee1abe.mp4
 
 ### Egocentric View of the car and pedestrian
-![Egocentric View of the car](https://user-images.githubusercontent.com/115661274/221333108-bc11a816-996f-4fa3-b205-e759fe056b9a.png) ![Egocentric View of the pedestrian](https://user-images.githubusercontent.com/115661274/221333114-246332d7-4b67-4fcd-ab7c-b6d55ec86caa.png)
+![Egocentric View of the car](https://user-images.githubusercontent.com/115661274/221333108-bc11a816-996f-4fa3-b205-e759fe056b9a.png)   ![Egocentric View of the pedestrian](https://user-images.githubusercontent.com/115661274/221333114-246332d7-4b67-4fcd-ab7c-b6d55ec86caa.png)
