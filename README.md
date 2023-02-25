@@ -26,8 +26,10 @@ https://user-images.githubusercontent.com/115661274/221343257-a356a3c3-d875-4913
 ## Demonstration of Self-Driving Car
 
 
+<div align="center">
+  <video src="https://user-images.githubusercontent.com/115661274/221333598-c175a97f-a8cc-4a21-ab77-31f36c1547f0.mp4" width=400/>
+<div/>
 
-https://user-images.githubusercontent.com/115661274/221333598-c175a97f-a8cc-4a21-ab77-31f36c1547f0.mp4
 
 </br>
 </br>
