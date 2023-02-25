@@ -16,9 +16,7 @@ Also, animated an avatar and write scripting for synchronizing VR-input action w
 
 
 <img width="430" src="https://user-images.githubusercontent.com/115661274/221333598-c175a97f-a8cc-4a21-ab77-31f36c1547f0.mp4" />
-brew install ffmpeg
-brew install gifsicle
-ffmpeg -i Screen\ Recording\ 2022-07-30\ at\ 16.35.36.mov -vf "fps=30,split[s0][s1];[s0]palettegen[p];[s1][p]paletteuse" output.mp4 && gifsicle -O3 output.mp4 -o output.mp4
+
 
 
 
