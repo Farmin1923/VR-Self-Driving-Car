@@ -22,8 +22,10 @@ Also, animated an avatar and write scripting for synchronizing VR-input action w
 ## Demonstration of Self-Driving Car
 
 <div align="center">
-  <video src="https://user-images.githubusercontent.com/115661274/221344691-14b95874-2dd4-4d23-a619-ed70ec90c226.mp4" />
+  <video src="https://user-images.githubusercontent.com/115661274/221344725-bf409fdc-b155-489d-9903-bc6fe7d1c75a.mp4" />
 </div>
+
+
 </br>
 
 ## Camera view of the Client-Server Systems
