@@ -9,7 +9,7 @@ Also, animated an avatar and write scripting for synchronizing VR-input action w
 
 ### Demonstration of the Simulator
 
------
+---
 
 
 
