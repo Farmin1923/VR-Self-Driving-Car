@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/115661274/221333598-c175a97f-a8cc-4a21
 </br>
 
 
-
+## Camera view of the Client-Server Systems
 
 Egocentric View of the car            |  Egocentric view of the pedestrian
 :-------------------------:|:-------------------------:
