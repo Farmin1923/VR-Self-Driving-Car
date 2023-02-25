@@ -7,6 +7,8 @@ and it is more reliable to conduct human-factor research in autonomous cars.
 I have made a multi-player client-server where the car and the pedestrian input can be controlled from different systems.
 Also, animated an avatar and write scripting for synchronizing VR-input action with Unity 3D input.
 
+</br>
+</br>
 ## Demonstration of the Simulator
 
 
