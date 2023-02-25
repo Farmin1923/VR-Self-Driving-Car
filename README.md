@@ -9,11 +9,10 @@ Also, animated an avatar and write scripting for synchronizing VR-input action w
 
 </br>
 
-
 ## Demonstration of the Simulator
 
 <div align="center">
-  <video src="https://user-images.githubusercontent.com/115661274/221345013-32059ab3-2f47-4296-b8a4-bb7f9d0f0e68.mp4" />
+  <video src="https://user-images.githubusercontent.com/115661274/221345095-f637610a-d064-4b1e-9414-6ebf81a8da7f.mp4" />
 </div>
 </br>
 
