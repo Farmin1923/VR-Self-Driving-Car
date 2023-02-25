@@ -1,4 +1,4 @@
-# VR based self-driving car
+## VR Based Self-Driving Car
 
 
 I am developing a VR based self-driving car simulator for using it as a testing bed for predicting pedestrian intention. 
