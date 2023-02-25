@@ -8,7 +8,6 @@ I have made a multi-player client-server where the car and the pedestrian input 
 Also, animated an avatar and write scripting for synchronizing VR-input action with Unity 3D input.
 
 ### Demonstration of the Simulator
-
 ---
 
 
