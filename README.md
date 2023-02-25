@@ -1,4 +1,6 @@
 # VR-Self-Driving-Car
+(---)
+
 I am developing a VR based self-driving car simulator for using it as a testing bed for predicting pedestrian intention. 
 VR simulators are recognized for their affordability, and adaptability in producing a variety of traffic situations, 
 and it is more reliable to conduct human-factor research in autonomous cars. 
@@ -16,6 +18,7 @@ Also, animated an avatar and write scripting for synchronizing VR-input action w
 </br>
 
 ### Demonstration of Self-Driving Car
+(---)
 
 
 https://user-images.githubusercontent.com/115661274/221333598-c175a97f-a8cc-4a21-ab77-31f36c1547f0.mp4
@@ -24,6 +27,7 @@ https://user-images.githubusercontent.com/115661274/221333598-c175a97f-a8cc-4a21
 </br>
 
 ### View of the Camera from Server-Client System
+(---)
 
 Egocentric View of the car            |  Egocentric view of the pedestrian
 :-------------------------:|:-------------------------:
