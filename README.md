@@ -30,8 +30,13 @@ Egocentric View of the car            |  Egocentric view of the pedestrian
 :-------------------------:|:-------------------------:
 ![Egocentric View of the car](https://user-images.githubusercontent.com/115661274/221333624-dac2659a-2939-4344-91a2-d0097f724cf7.png) |  ![Egocentric View of the pedestrian](https://user-images.githubusercontent.com/115661274/221333627-8ef09546-4d8f-468e-9ce8-9c94ba8782b1.png)
 
+</br>
+## Avatar of the Pedestrian, Controlling by Keyboard Input
 
-https://user-images.githubusercontent.com/115661274/221374333-5f66588f-abbc-466e-a2bf-cbf407928f95.mp4
+<div align="center">
+  <video src="https://user-images.githubusercontent.com/115661274/221374518-dd2690fc-c89a-483a-8935-ee9bd4eaf589.mp4" />
+</div>
 
+</br>
 
 
