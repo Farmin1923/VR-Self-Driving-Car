@@ -37,7 +37,7 @@ Egocentric View of the car            |  Egocentric view of the pedestrian
 ## Demonstration of Self-Driving Car
 
 <div align="center">
-  <video src="https://user-images.githubusercontent.com/115661274/227047455-ce8be62c-481c-49cf-b675-dfbbaeaebb1f.mp4"/>
+  <video src="https://user-images.githubusercontent.com/115661274/227049569-5e161c65-9fe1-474d-a74a-7241a440cd13.mp4"/>
 </div>
 
 </br>
