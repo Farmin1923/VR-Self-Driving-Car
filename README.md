@@ -7,6 +7,7 @@ and it is more reliable to conduct human-factor research in autonomous cars.
 I have made a multi-player client-server where the car and the pedestrian input can be controlled from different systems.
 Also, animated an avatar and write scripting for synchronizing VR-input action with Unity 3D input.
 </br>
+</br>
 The features that are needed for testing the classifier of Pedestrian Intention Algorithom are the coordinate of top-left and bottom-right coordinates of the pedestrian bounding box and the speed of the car. The extrinsic matrix changes the world coordinate system to the camera coordinate system.Calculating the Skinned-Mesh Renderer of the avatar, the coordinate points of the bounding box were found by this matrix transformation. An UI has been designed which enclosed the pedestrian and changed according to the pedestrian's action.  
 
 </br>
