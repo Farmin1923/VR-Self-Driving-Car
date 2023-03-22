@@ -9,6 +9,23 @@ Also, animated an avatar and write scripting for synchronizing VR-input action w
 
 </br>
 
+## Camera view of the Client-Server Systems
+
+Egocentric View of the car            |  Egocentric view of the pedestrian
+:-------------------------:|:-------------------------:
+![Egocentric View of the car](https://user-images.githubusercontent.com/115661274/221333624-dac2659a-2939-4344-91a2-d0097f724cf7.png) |  ![Egocentric View of the pedestrian](https://user-images.githubusercontent.com/115661274/221333627-8ef09546-4d8f-468e-9ce8-9c94ba8782b1.png)
+
+</br>
+
+## Demonstration of Self-Driving Car Server
+
+<div align="center">
+  <video src="https://user-images.githubusercontent.com/115661274/227048390-0a586870-5f36-406d-9a8b-38dc9757a729.mp4"/>
+</div>
+
+</br>
+
+
 ## Demonstration of the Simulator
 
 <div align="center">
@@ -22,19 +39,10 @@ Also, animated an avatar and write scripting for synchronizing VR-input action w
   <video src="https://user-images.githubusercontent.com/115661274/227047455-ce8be62c-481c-49cf-b675-dfbbaeaebb1f.mp4"/>
 </div>
 
-
-
-
-
 </br>
 
-## Camera view of the Client-Server Systems
 
-Egocentric View of the car            |  Egocentric view of the pedestrian
-:-------------------------:|:-------------------------:
-![Egocentric View of the car](https://user-images.githubusercontent.com/115661274/221333624-dac2659a-2939-4344-91a2-d0097f724cf7.png) |  ![Egocentric View of the pedestrian](https://user-images.githubusercontent.com/115661274/221333627-8ef09546-4d8f-468e-9ce8-9c94ba8782b1.png)
 
-</br>
 
 ## Avatar of the Pedestrian, Controlled by Keyboard Input
 
