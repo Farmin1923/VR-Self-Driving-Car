@@ -11,6 +11,8 @@ Also, animated an avatar and write scripting for synchronizing VR-input action w
 
 ## Camera View of the Client-Server Systems
 
+<div align="center">
+
 Egocentric View of the car            |  Egocentric view of the pedestrian
 :-------------------------:|:-------------------------:
 ![Egocentric View of the car](https://user-images.githubusercontent.com/115661274/221333624-dac2659a-2939-4344-91a2-d0097f724cf7.png) |  ![Egocentric View of the pedestrian](https://user-images.githubusercontent.com/115661274/221333627-8ef09546-4d8f-468e-9ce8-9c94ba8782b1.png)
