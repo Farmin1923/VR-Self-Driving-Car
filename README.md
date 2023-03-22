@@ -9,7 +9,7 @@ Also, animated an avatar and write scripting for synchronizing VR-input action w
 
 </br>
 
-## Camera view of the Client-Server Systems
+## Camera View of the Client-Server Systems
 
 Egocentric View of the car            |  Egocentric view of the pedestrian
 :-------------------------:|:-------------------------:
@@ -17,7 +17,7 @@ Egocentric View of the car            |  Egocentric view of the pedestrian
 
 </br>
 
-## Demonstration of Self-Driving Car Server
+## Demonstration of the Simulator from Driver's Perspective
 
 <div align="center">
   <video src="https://user-images.githubusercontent.com/115661274/227048390-0a586870-5f36-406d-9a8b-38dc9757a729.mp4"/>
@@ -25,12 +25,13 @@ Egocentric View of the car            |  Egocentric view of the pedestrian
 
 </br>
 
-
-## Demonstration of the Simulator
+## Demonstration of the Simulator from Pedestrian's Perspective
 
 <div align="center">
   <video src="https://user-images.githubusercontent.com/115661274/221345169-b437d01f-4c7f-4248-ae26-b5087d0e73d0.mp4" />
 </div>
+
+
 </br>
 
 ## Demonstration of Self-Driving Car
